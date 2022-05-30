@@ -674,7 +674,7 @@ p {
   letter-spacing: 0.08em;
   margin-bottom: 20px;
   color: #4d4d4d;
-  margin: 0 10px;
+  margin: 0 80px;
 }
 
 .achievement h5 {
@@ -1382,7 +1382,9 @@ p {
   .cloud-img-pc {
     display: none;
   }
-
+  .achievement {
+    margin: 0 10px;
+  }
   /**Advise*/
   .advise {
     padding: 40px 0 0 0;
